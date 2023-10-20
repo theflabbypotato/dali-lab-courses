@@ -6,7 +6,7 @@ Admittedly, I got really focused on the data imputation and the creating/refinin
 
 **Explanation:**
 
-I tried to explain most of what was going on/what I did in the comments and through the notebook but I'll try to also run through it here (I'll also explain more of the data imputation here since I didn't do it that much in the code).
+I tried to explain most of what was going on/what I did in the comments and through the notebook but I'll try to also run through it here (I'll also explain more of the data imputation thought process here since I didn't do it in the code).
 
 **Data Imputation**
 
