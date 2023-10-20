@@ -23,6 +23,6 @@ FINALLY, to fill in the medians, I used a KNN imputer that imputes the Median GP
 
 **Model Creation**
 
-I'll try to be less wordy here because I do a bit more explaining within the colab notebook.  I used kind of a similar model to my other Seasons! project but I added a few more things to try to improve it.
+I'll try to be less wordy here because I do a lot more explaining on some of the hyperparameters and certain decisions I made within the colab notebook.  I used kind of a similar model to my other Seasons! projec but I added a few more things to try to improve it.  Mainly, I added regularization in my hidden layers (l1 and l2) to prevent overfitting and underfitting of my model.  I also employed grid search to tune my hyperparameters, although I know there are better methods.  I validated my data with a model that simply predicted the median of all the Median GPA's everytime and my model didn't do any better.  In hindsight, trying to predict Median GPA wasn't a great idea but oh well.
 
-I think this whole application, learning, coding, and writing explanations for the DALI app took ~20 hours over two-ish weeks.
+I think this whole application, learning, coding, and writing explanations for the DALI app took ~20 hours over two-ish weeks.  Sorry if this is long!  Also, I will note that I often used online resources like youtube, websites, github, and sometimes chatGPT to help and learn.
